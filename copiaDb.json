@@ -1,0 +1,84 @@
+{
+    "products": [
+      {
+        "userId": 1,
+        "id": "1",
+        "product": "melância",
+        "quantity": 0,
+        "price": 5.5,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "2",
+        "product": "abacaxi",
+        "quantity": 0,
+        "price": 4.5,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "3",
+        "product": "limão",
+        "quantity": 0,
+        "price": 1.2,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "4",
+        "product": "cenoura",
+        "quantity": 0,
+        "price": 1.5,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "5",
+        "product": "abacate",
+        "quantity": 0,
+        "price": 3.8,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "6",
+        "product": "alface",
+        "quantity": 0,
+        "price": 3.6,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "7",
+        "product": "tomate",
+        "quantity": 0,
+        "price": 1.5,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "8",
+        "product": "leite",
+        "quantity": 0,
+        "price": 5.8,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "9",
+        "product": "pão",
+        "quantity": 0,
+        "price": 1.2,
+        "buy": false
+      },
+      {
+        "userId": 1,
+        "id": "10",
+        "product": "manteiga",
+        "quantity": 0,
+        "price": 4.3,
+        "buy": false
+      }
+    ]
+  }
